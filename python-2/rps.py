@@ -50,7 +50,7 @@ def move_submit(): #defines our function of rock paper scissors
         if player_move in ["Rock","rock","R","r","ROCK","rox"]: #if players move is in these options, set their word to Rock! and move number to 1 which we use as rock
             PMW = ("Rock!")
             PM = 1
-        elif player_move in ["Paper","paper","P","p","PAPER"]: #if players move is in these options, set their word to Paper! and move number to 2 which we use as paper
+        elif player_move in ["Paper","paper","P","p","PAPER","pap"]: #if players move is in these options, set their word to Paper! and move number to 2 which we use as paper
             PMW = ("Paper!")
             PM = 2
         elif player_move in ["Scissors","scissors","S","s","SCISSORS"]: #if players move is in these options, set their word to Scissors! and move number to 3 which we use as scissors
