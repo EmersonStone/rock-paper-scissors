@@ -109,7 +109,7 @@ a resource explaining) how to install, compile, and run the source.
 - Coq
 - Crystal
 - D
-- Dart
+- ~~Dart~~
 - DCL
 - Delphi
 - Déjà Vu
